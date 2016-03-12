@@ -3,8 +3,7 @@
 
 ##Zadanie:
 ##Może Pan to zrobić w 2D. Na ekranie jest cel, który może poruszać się w dowolny sposób np. być sterowany przez użytkownika, oraz wyrzutnia rakiet,
-##które starają się trafić w cel. Mogą po prostu zmieniać kierunek tak, żeby mieć zawsze cel przed nosem lub stosować jakąś bardziej wyrafinowaną strategię
-##np. celować w miejsce, w którym cel z bieżącą prędkością powinien być w momencie przecięcia trajektorii.
+##które starają się trafić w cel. Mogą po prostu zmieniać kierunek tak, żeby mieć zawsze cel przed nosem.
 ##Pozdrawiam
 ##JM
 
